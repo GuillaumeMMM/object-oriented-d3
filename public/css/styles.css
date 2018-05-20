@@ -1,0 +1,17 @@
+body {
+  background-color: #f4f4f4; }
+  body h1 {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+    margin: 20px; }
+  body hr {
+    width: 20%;
+    margin-left: 40%; }
+  body .button {
+    width: 15%;
+    height: 30px;
+    margin-left: 42%;
+    color: black;
+    background-color: white;
+    border: solid 1px black; }
