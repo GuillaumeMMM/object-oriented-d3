@@ -88,4 +88,5 @@ const chart = new Chart({ element: document.getElementsByTagName("BODY")[0], dat
 
 updateData = function () {
     chart.updateData();
+    // setInterval(function(){ chart.updateData(); }, 500);
 };
